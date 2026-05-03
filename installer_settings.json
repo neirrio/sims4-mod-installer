@@ -1,9 +1,0 @@
-{
-  "sims4_path": "E:\\SteamLibrary\\steamapps\\common\\The Sims 4\\",
-  "mods_path": "C:\\Users\\anons\\OneDrive\\Dokumente\\Electronic Arts\\The Sims 4\\Mods",
-  "auto_install": false,
-  "download_timeout": 30,
-  "max_retries": 3,
-  "auto_cleanup_downloads": false,
-  "confirm_delete": true
-}
