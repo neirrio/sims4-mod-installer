@@ -1,0 +1,15 @@
+{
+  "token": "0fef9d7f-afa2-40cb-9ba4-485295f02626",
+  "device_id": "3084ede42f300885",
+  "created_at": "2026-05-03T22:32:28.424095",
+  "version": "2.1",
+  "system_info": {
+    "platform": "Windows-10-10.0.19045-SP0",
+    "system": "Windows",
+    "release": "10",
+    "version": "10.0.19045",
+    "machine": "AMD64",
+    "processor": "AMD64 Family 16 Model 10 Stepping 0, AuthenticAMD",
+    "python_version": "3.14.4"
+  }
+}
